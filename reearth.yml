@@ -1,0 +1,8 @@
+id: reearth-plugin-size-comparison
+name: Size Comparison
+version: 0.1.0
+extensions:
+  - id: size-comparison
+    type: widget
+    name: Size Comparison
+    schema:
