@@ -17,8 +17,10 @@ Tokyo Dome 3D model by [koshikawa](https://sketchfab.com/koshikawa "author") /  
 
 - シーン設定 
    - シーンタブのシーンモードで ”Scene 3D" を選択します。
+   
     ![](src/img1.png)
    - 地形タブの、”地形” と ”地形の下を非表示” 両方をONにします。
+  
     ![](src/img2.png) 
     
 ### 操作方法
